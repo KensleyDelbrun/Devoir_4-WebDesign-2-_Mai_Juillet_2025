@@ -27,34 +27,6 @@ let shopItemsData = [
     desc: "A unique curved display for an immersive experience. Access your apps and notifications on a panoramic screen.",
     img: "images/img-8.jpg",
   },
-  {
-    id: "fittrackslim",
-    name: "FitTrack Slim",
-    price: 59,
-    desc: "Discreet, slim, and designed for sports. This band tracks your activities and sleep without getting in the way. Your performance partner.",
-    img: "images/img-9.jpg",
-  },
-  {
-    id: "versastyle",
-    name: "VersaStyle (Black)",
-    price: 95,
-    desc: "A versatile style that matches all your outfits. Complete health tracking, active zone minutes, and smart notifications.",
-    img: "images/img-10.jpg",
-  },
-  {
-    id: "aurafitrose",
-    name: "AuraFit Pro (Rose Gold)",
-    price: 89,
-    desc: "All the features of the AuraFit Pro in a stunning Rose Gold finish. Manage your calls and well-being with a touch of glamour.",
-    img: "images/img-11.jpg",
-  },
-  {
-    id: "matrixoswhite",
-    name: "Matrix OS (White)",
-    price: 119,
-    desc: "Navigate your apps with a fluid and intuitive 'Matrix' interface. Fast processing power in a chrome-finished case.",
-    img: "images/img-12.jpg",
-  },
 ];
 
 
